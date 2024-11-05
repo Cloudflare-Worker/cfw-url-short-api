@@ -1,0 +1,10 @@
+name = "link-short"
+main = "src/index.js"
+compatibility_date = "2024-10-16"
+
+[placement]
+mode = "smart"
+
+[[kv_namespaces]]
+id = "<YOUR_KV_ID>"
+binding = "LINKS"
